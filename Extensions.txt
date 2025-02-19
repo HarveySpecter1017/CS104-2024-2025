@@ -6,4 +6,4 @@ Extensions:
 5)HTML preview
 6)vs code pdf
 7)Rainbow csv
- 
+8)Live Server
