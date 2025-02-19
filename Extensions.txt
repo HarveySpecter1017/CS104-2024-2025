@@ -1,0 +1,9 @@
+Extensions:
+1)C/C++ extension pack
+2)Dev containers
+3)HTML boilerplate
+4)HTML CSS support
+5)HTML preview
+6)vs code pdf
+7)Rainbow csv
+ 
